@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I am currently a university student<br>👯 I like to collaborate on free software projects<br>⚡ i love programming
+🔭  I am currently a college student<br>👯 I like to collaborate on free software projects<br>⚡ i love programming
 
 
 ## 🌐 Socials:
